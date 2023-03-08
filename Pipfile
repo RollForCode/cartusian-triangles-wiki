@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+markdown-it-py = "*"
+markdown = "*"
+libsass = "*"
+pdfkit = "*"
+mkdocs = "*"
+mkdocs-material = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+
+[scripts]
+build = "python main.py"
+deploy = "mkdocs gh-deploy --force"
+local = "mkdocs serve"
