@@ -37,15 +37,21 @@ h2 {
   font-size: 22px; }
 
 h1, h2, h3 {
-  background-color: #f5d546;
   padding: 1px 6px;
-  color: #111111 !important;
   letter-spacing: 1px;
   text-transform: uppercase;
   letter-spacing: 2px;
   margin: 20px 0 10px;
   border: 1px #f5d546 solid;
   border-radius: 5px; }
+
+h1, h2 {
+  background-color: #f5d546;
+  color: #111111 !important; }
+
+h3 {
+  background-color: inherit;
+  color: white !important; }
 
 td, th {
   border: 1px solid #9a7f08;
@@ -78,4 +84,5 @@ td:first-child, th:first-child {
 .handout {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   padding: 0 15px;
-  width: 100% !important; }
+  width: 100% !important;
+  text-align: left !important; }
