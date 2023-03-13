@@ -82,7 +82,6 @@ td:first-child, th:first-child {
   border-left: none; }
 
 .handout {
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   padding: 0 15px;
   width: 100% !important;
-  text-align: left !important; }
+  text-align: justify !important; }
