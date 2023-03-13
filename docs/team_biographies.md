@@ -4,7 +4,6 @@ Welcome all Teams to the Cartusian Invitational!
 We at the Participant Commitee welcome you, the valued participants, to the galaxies most exclusive event.  
 Below you'll find some information about your fellow participants. Make friends, work together, and enjoy the Cartusian Invitational!
 
-
 ## Team breakdown
 
 ### Tender Loving Cuts
