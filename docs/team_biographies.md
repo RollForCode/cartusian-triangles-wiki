@@ -10,7 +10,7 @@ Below you'll find some information about your fellow participants. Make friends,
 
 <figure markdown class="handout">
 
-![thing](../../resources/images/teams/battledroids/icon_battledroids.png){ width="200" align=left }
+![thing](../resources/images/teams/battledroids/icon_battledroids.png){ width="200" align=left }
 
 4 AI Battledroids from the Tosnap & lillysponge Corporatation.  
 
@@ -73,7 +73,7 @@ hello there hello there hello there hello there hello there hello there  hello t
 
 <figure markdown class="handout">
 
-![RAS Logo](../../resources/images/teams/caviar_blasters/icon_caviar_blasters.png){ width="200" align=left }
+![RAS Logo](../resources/images/teams/caviar_blasters/icon_caviar_blasters.png){ width="200" align=left }
 
 Inexperience doesn't stand in the way of entering this Invitational! although likely stands in the way of winning.  
 Our Charity team even come dressed in comical gear, with only a sword, knife, and pistol between them!
@@ -91,7 +91,7 @@ Al
 
 ### Team Shaaman Ghahmhanaa
 
-![RAS Logo](../../resources/images/teams/Mercs/icon_mercs.png){ width="200" align=left }
+![RAS Logo](../resources/images/teams/Mercs/icon_mercs.png){ width="200" align=left }
 
 5 highly decorated mercenaries with a combined 96 years experience.  
 
