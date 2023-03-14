@@ -10,7 +10,7 @@ Below you'll find some information about your fellow participants. Make friends,
 
 <figure markdown class="handout">
 
-![thing](../../../resources/images/teams/battledroids/icon_battledroids.png){ width="200" align=left }
+![thing](../../resources/images/teams/battledroids/icon_battledroids.png){ width="200" align=left }
 
 4 AI Battledroids from the Tosnap & lillysponge Corporatation.  
 
@@ -33,7 +33,7 @@ Helping to disprove these rumours is their 5th member, Secret, a Ysoki who lives
 
 <figure markdown class="handout">
 
-![thing](../../../resources/images/teams/terraforma/icon_terraforma.png){ width="200" align=left }
+![thing](../../resources/images/teams/terraforma/icon_terraforma.png){ width="200" align=left }
 
 hello there hello there hello there hello there hello there hello there  hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there
 
@@ -43,7 +43,7 @@ hello there hello there hello there hello there hello there hello there  hello t
 
 <figure markdown class="handout">
 
-![thing](../../../resources/images/teams/flighticorns/icon_flighticorns.png){ width="200" align=left }
+![thing](../../resources/images/teams/flighticorns/icon_flighticorns.png){ width="200" align=left }
 
 Well, someone's been reading the rules! It seems these Team Bio writers are assigned to the teams, and therefor not protected by the rules of collateral damage.  
 
@@ -63,7 +63,7 @@ As i look upon the corpse of this previous teams writer, i can safely say that t
 
 <figure markdown class="handout">
 
-![RAS Logo](../../../resources/images/teams/){ width="200" align=left }
+![RAS Logo](../../resources/images/teams/){ width="200" align=left }
 
 hello there hello there hello there hello there hello there hello there  hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there
 
