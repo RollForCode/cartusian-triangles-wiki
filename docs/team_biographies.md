@@ -95,7 +95,7 @@ Al
 
 5 highly decorated mercenaries with a combined 96 years experience.  
 
-The team of 16 years holds 6 of the 7 issued Galactic medals of Distinction in Combat, and all 5 members have individually won the *OneIn500: battle for life* event.  
+The team of 16 years holds 6 of the 7 issued Galactic medals of Distinction in Combat, and all 5 members have individually won the *OneIn5000: battle for life* event.  
 
 Although not winning last year, they are the only non-winners in the history of the Invitational to survive.
 
