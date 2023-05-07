@@ -35,9 +35,19 @@ Helping to disprove these rumours is their 5th member, Secret, a Ysoki who lives
 
 ![thing](../../resources/images/teams/terraforma/icon_terraforma.png){ width="200" align=left }
 
-hello there hello there hello there hello there hello there hello there  hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there hello there
+This team of terraform specialists is comprised of a seasoned explorer, an atmospheric manipulation specialist, a geologist skilled in identifying valuable resources, a weapons expert, and exobiologist. They aim to find new terraforming opportunities and are well-equipped with an All Terrain Transport Vehicle and mining equipment. They understand the competition is deadly but have stated they will use their equipment for defense, but only resort to lethal force when necessary.
 
 </figure>
+
+---
+
+**Members:**  
+
+- Dr. Emily Lin
+- Brevan Trill
+- Tarnara Dux
+- M'ruk
+- Zara Ventis
 
 ### Team Happy Flighticons
 
@@ -102,3 +112,9 @@ Although not winning last year, they are the only non-winners in the history of 
 </figure>
 
 **Members:**
+
+- Captain Blake "Thunderbolt" Johnson  
+- Colonel Natasha "Black Widow" Ivanova  
+- Major Max "The Hammer" Ramirez  
+- Lieutenant Kira "Nightshade" Lee  
+- Sergeant Jack "The Ripper" Thompson  

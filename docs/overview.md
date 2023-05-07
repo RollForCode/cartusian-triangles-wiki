@@ -13,16 +13,9 @@ Information on this page is to help you understand the rules.
 | **IPC** | Invitational Participant Chip |  
 | **Participant Commitee** | the commitee available to assist race participants through the event |
 
-## Definitions
+## Rules and Eligibility
 
-**collateral damage**
-any damage, harm, negative effect, or other action that would cause a monetary, physical, or emotional cost to:
-
-- any living non-participant outside of an event zone
-
-## Teams and Eligibility
-
-1. All teams must start with 5 living members. At least one member must be organic.
+1. All teams must start with 5 members. At least one member must be organic.
 2. New members may join the team, but must be a system citizen, and not have any prior contact with any contestants outside of the competition.
 3. A team is invalidated if:
    - The team is disbanded
@@ -30,7 +23,69 @@ any damage, harm, negative effect, or other action that would cause a monetary, 
    - The last original member breaks the rules
 4. A team may only be revalidated if a dead original contestant finds themselves alive again.
 5. All team members are fitted with trackers. Trackers are removed after the event concludes
-6. All contestants will have an NDAC installed in order to join a team. Any new team members will need RCPs installed. this can be done by most of the assistances drones
+6. All contestants will have an ICP installed in order to join a team. Any new team members will need ICPs installed. this can be done by most of the assistances drones
+7. SRCs can only be added to GFCTRs in event compliance times
+8. 2000ms will be permitted between an event zone going down, and the rules being dropped
+9. Drones may kill party members on breach of rules
+10. TerMERk rules are in place. do not breach them
+11. Competitors can wear a hat or any headgear of their choice.
+1. Participants can choose to wear shoes or go barefoot.
+1. Each team can bring a lucky charm to the competition.
+Competitors can choose to wear gloves during the competition.
+Participants can choose to wear glasses or contact lenses.
+Teams can bring their own snacks and drinks to the competition.
+Each team can have a designated mascot.
+Competitors can choose to wear jewelry during the competition.
+Participants can choose to wear long sleeves or short sleeves.
+Teams can choose to have a team chant or cheer.
+Each team can have a designated team captain.
+Competitors can choose to wear makeup during the competition.
+Participants can choose to wear a watch or not.
+Teams can have a team banner or flag.
+Each team can choose their own team color.
+Competitors can choose to wear a necklace or pendant.
+Participants can choose to wear a hat or visor for shade.
+Teams can choose to have team T-shirts or uniforms.
+Each team can have a designated team photographer.
+Competitors can choose to wear knee pads or elbow pads.
+Participants can choose to wear a hair tie or headband.
+Teams can have a team song or music to play during the competition.
+Each team can choose a team mascot costume.
+Competitors can choose to wear a bracelet or wristband.
+Participants can choose to wear a backpack or carry a bag.
+Teams can have a team slogan or motto.
+Each team can have a designated team mascot handler.
+Competitors can choose to wear sunglasses or not.
+Participants can choose to wear a hat or cap backwards.
+Teams can choose to have team water bottles or hydration packs.
+Each team can have a designated team assistant.
+Competitors can choose to wear a pendant or locket.
+Participants can choose to wear a wristwatch or fitness tracker.
+Teams can choose to have team jackets or sweaters.
+Each team can have a designated team announcer.
+Competitors can choose to wear a scarf or necktie.
+Participants can choose to wear a headscarf or bandana.
+Teams can choose to have team hats or beanies.
+Each team can have a designated team doctor.
+Competitors can choose to wear a belt or suspenders.
+Participants can choose to wear a brooch or lapel pin.
+Teams can have a team mascot dance or routine.
+Each team can have a designated team chauffeur.
+Competitors can choose to wear a pocket square or handkerchief.
+Participants can choose to wear a scarf or shawl.
+Teams can have team spirit items or accessories.
+Each team can have a designated team publicist.
+Competitors can choose to wear a tie or bow tie.
+Participants can choose to wear a necklace or choker.
+Teams can have a team mascot voice or sound effect.
+Each team can have a designated team stylist.
+Competitors can choose to wear a brooch or pin.
+Participants can choose to wear a bracelet or anklet.
+Teams can have team mascot merchandise or souvenirs.
+Each team can have a designated team lawyer.
+Competitors can choose to wear a scarf or ascot.
+Participants can choose to wear a hat or cap forwards.
+Teams can have team mascot video or animation.
 
 ## Local and competition law
 
